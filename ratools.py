@@ -212,11 +212,11 @@ def menu():
 	print "\033[1;97m⚔--\033[1;91m> \033[1;92m4.\033[1;97m Bot       "
 	print "\033[1;97m⚔--\033[1;91m> \033[1;92m5.\033[1;97m Others           "
 	print "\033[1;97m⚔--\033[1;91m> \033[1;92m6.\033[1;97m Show token           "
-        print "\033[1;97m║--\033[1;91m> \033[1;92m7.\033[1;97m Update           "
-	print "\033[1;97m║--\033[1;91m> \033[1;92m8.\033[1;97m Delete trash          "
-	print "\033[1;97m║--\033[1;91m> \033[1;92m9.\033[1;97m LogOut            "
-	print "\033[1;97m║--\033[1;91m> \033[1;91m0.\033[1;97m Exit the programs          "
-	print "║"
+        print "\033[1;97m⚔--\033[1;91m> \033[1;92m7.\033[1;97m Update           "
+	print "\033[1;97m⚔--\033[1;91m> \033[1;92m8.\033[1;97m Delete trash          "
+	print "\033[1;97m⚔--\033[1;91m> \033[1;92m9.\033[1;97m LogOut            "
+	print "\033[1;97m⚔--\033[1;91m> \033[1;91m0.\033[1;97m Exit the programs          "
+	print "⚔"
 	pilih()
 #-
 def pilih():
@@ -327,17 +327,17 @@ def dump():
 		login()
 	os.system('reset')
 	print logo
-	print "\033[1;97m║--\033[1;91m> \033[1;92m1.\033[1;97m Get ID friend"
-	print "\033[1;97m║--\033[1;91m> \033[1;92m2.\033[1;97m Get ID friend from friend"
-	print "\033[1;97m║--\033[1;91m> \033[1;92m3.\033[1;97m Get group member ID"
-	print "\033[1;97m║--\033[1;91m> \033[1;92m4.\033[1;97m Get group member email"
-	print "\033[1;97m║--\033[1;91m> \033[1;92m5.\033[1;97m Get group member phone number"
-	print "\033[1;97m║--\033[1;91m> \033[1;92m6.\033[1;97m Get email friend"
-	print "\033[1;97m║--\033[1;91m> \033[1;92m7.\033[1;97m Get email friend from friend"
-	print "\033[1;97m║--\033[1;91m> \033[1;92m8.\033[1;97m Get a friend's phone number"
-	print "\033[1;97m║--\033[1;91m> \033[1;92m9.\033[1;97m Get a friend's phone number from friend"
-	print "\033[1;97m║--\033[1;91m> \033[1;91m0.\033[1;97m Back"
-	print "║"
+	print "\033[1;97m🔰--\033[1;91m> \033[1;92m1.\033[1;97m Get ID friend"
+	print "\033[1;97m🔰--\033[1;91m> \033[1;92m2.\033[1;97m Get ID friend from friend"
+	print "\033[1;97m🔰--\033[1;91m> \033[1;92m3.\033[1;97m Get group member ID"
+	print "\033[1;97m🔰--\033[1;91m> \033[1;92m4.\033[1;97m Get group member email"
+	print "\033[1;97m🔰--\033[1;91m> \033[1;92m5.\033[1;97m Get group member phone number"
+	print "\033[1;97m🔰--\033[1;91m> \033[1;92m6.\033[1;97m Get email friend"
+	print "\033[1;97m🔰--\033[1;91m> \033[1;92m7.\033[1;97m Get email friend from friend"
+	print "\033[1;97m🔰--\033[1;91m> \033[1;92m8.\033[1;97m Get a friend's phone number"
+	print "\033[1;97m🔰--\033[1;91m> \033[1;92m9.\033[1;97m Get a friend's phone number from friend"
+	print "\033[1;97m🔰--\033[1;91m> \033[1;91m0.\033[1;97m Back"
+	print "🔰"
 	dump_pilih()
 #-----pilih
 def dump_pilih():
