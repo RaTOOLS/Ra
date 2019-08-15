@@ -10,4 +10,3 @@
 </ul>
 <br />
 <br />
-<img src="https://github.com/RaTOOLS/Ra/raw/master/Screenshot_2019-07-07-12-50-24-318_com.termux.png" />
